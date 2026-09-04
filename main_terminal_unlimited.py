@@ -48,7 +48,7 @@ from telegram.ext import (
 )
 
 # Configuration
-BOT_TOKEN       = "8205257489:AAFYUYDapkJ7v5SaCZgRXRmZMRqG0-v3W_8"   # apna bot token
+BOT_TOKEN       = "8611245569:AAGEQQcdzRmHPXpGezbfgrescUGtTTMoNS0"   # apna bot token
 MASTER_PASSWORD = "root"                                            # apna password                                           # apna password
 
 AUTH_USERS_KEY  = "auth_users"
