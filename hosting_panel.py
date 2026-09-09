@@ -101,7 +101,7 @@ from script_scanner import validate_pattern, scan_file
 import plugin_manager
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────
-TOKEN = "8860939583:AAHfctkaAmob2y9p8_69568awqpx5URjGT8"
+TOKEN = "8611245569:AAESunsUQro93M9WhTnkphcL-KCfpq5lzWY"
 OWNER_ID = 7265678519
 ADMIN_ID = 7265678519
 YOUR_USERNAME = "@Xalonexdev03"
